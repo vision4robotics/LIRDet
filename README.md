@@ -1,5 +1,5 @@
-# YOLOX-OBB
-YOLOX in DOTA with KLD loss. (Oriented Object Detection)（Rotated BBox）
+# LIRDet
+Rotated BBox
 ## Installation 
 1. Install YOLOX-OBB(You can refer to the installation of [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX))
 ```shell
